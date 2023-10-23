@@ -1,6 +1,8 @@
 # jjasghar.me
 
-This is my "links page" because I needed one, and wasn't going to pay for it. :metal:.
+This is my "links page" because I needed one, and wasn't going to pay for it. :metal:. 
+
+This is also where I host my `vCard` from this blog post: <https://jjasghar.github.io/blog/2023/10/23/shared-vcard-for-free-ish/>
 
 ## License & Authors
 
